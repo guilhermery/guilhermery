@@ -11,5 +11,4 @@
 
 
 ![guilhermery's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermery&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 ![guilhermery's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermery&theme=tokyonight&hide_border=true)
