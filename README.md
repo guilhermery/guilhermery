@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Technology Information student at UFERSA | 🚀 JavaScript enthusiast | Eager to learn React, Node.js, and more | Passionate about building web applications and solving problems with code | Always learning.</p>
+<p align="left">🎓 Technology Information student at IFRN | 🚀 JavaScript enthusiast | Eager to learn React, Node.js, and more | Passionate about building web applications and solving problems with code | Always learning.</p>
 
 ###
 
