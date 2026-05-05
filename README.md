@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Technology Information student at IFRN | 🚀 JavaScript enthusiast | Eager to learn React, Node.js, and more | Passionate about building web applications and solving problems with code | Always learning.</p>
+<p align="left">🎓 Analysis and Development of Systems student at IFRN | 💻 Focused on software development, problem solving, and continuous learning | JavaScript enthusiast, currently expanding my skills in React, Node.js, and full-stack development.</p>
 
 ###
 
