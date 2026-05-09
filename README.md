@@ -24,8 +24,6 @@
 
 ###
 
-<h3>Connect with me:</h3>
-
 <div align="left">
 </div>
 
